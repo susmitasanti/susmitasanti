@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmitasanti&label=Profile%20views&color=0e75b6&style=flat" alt="susmitasanti" /> </p>
 
 
+
 - 🔭 I’m currently working on **NextJS**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
@@ -12,6 +13,9 @@
 - 💬 Ask me about **MERN Stack**
 
 - 📫 You can reach out to me at **susmitasanti04@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susmitasanti" alt="rish88c" /></a> </p>
+
 
 ## Languages and Tools
 

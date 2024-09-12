@@ -37,7 +37,7 @@
 ## Socials
 
 <p align="left">
-<a href="https://linkedin.com/in/susmita-santi-2b8047261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susmita-santi-2b8047261" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/susmita-santi-23309a293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susmita-santi-23309a293" height="30" width="40" /></a>
 <a href="https://instagram.com/susmitasanti04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susmitasanti04" height="30" width="40" /></a>
 </p>
 
